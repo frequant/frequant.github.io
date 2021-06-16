@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Frequant
-description: Institutional grade platform for investment research.
+description: Institutional grade platform for investment research, bringing backtesting and algorithmic trading to everyone.
 logo: https://github.com/frequant/frequant/raw/main/logo.png
 show_downloads: false
 # google_analytics: [Your Google Analytics tracking ID]
