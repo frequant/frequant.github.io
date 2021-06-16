@@ -1,10 +1,3 @@
-<img src="https://github.com/frequant/frequant/raw/main/logo.png" alt="logo" width="130"/>
-
-# Frequant
-Institutional grade platform for investment research, bringing backtesting and algorithmic trading to everyone.
-
-## Motivation
-
 I'd recently developed a keen interest in trading, mainly Cryptocurrencies due to their volatility but I do dabble in other asset classes.
 
 My passion for programming lead me down the path of wondering how best I could automate my strategies.
